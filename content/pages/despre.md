@@ -9,7 +9,7 @@ layout: page
 ---
 ## Sunt Adrian
 
-Sunt beker de credite si colaborez cu 5 banci.
+Sunt broker de credite si colaborez cu 5 banci.
 
 *   Credite de nevoi personale
 *   Mortgage
