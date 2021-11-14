@@ -1,5 +1,5 @@
 ---
-title: despre
+title: A
 seo:
   title: ''
   description: ''
