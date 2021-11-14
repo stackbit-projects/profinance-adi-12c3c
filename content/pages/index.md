@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Contact Me
+      - label: Conta
         url: /contact
         style: primary
     image: images/hero.png
