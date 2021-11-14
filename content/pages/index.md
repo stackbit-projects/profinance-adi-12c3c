@@ -6,7 +6,6 @@ sections:
       - label: Contactati-ma
         url: /contact
         style: primary
-    image_alt: A smiling woman
     media_position: right
     media_width: fifty
     align: left
