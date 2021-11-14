@@ -26,7 +26,8 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": false
+        "has_secondary_nav": false,
+        "logo": "/images/Untitled-4ab503f8.svg"
     },
     "footer": {
         "logo": "images/logo.svg",
