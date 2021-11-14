@@ -19,9 +19,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     title: 'Buna, sunt Adrian si te ajut sa obtii un credit rapid.'
-    subtitle: >-
-      Mă voi ocupa de proiectarea și producția site-ului dvs., de conturile de
-      rețele sociale și de reclamele digitale pentru dvs., 
+    subtitle: 'Ma voi ocupa de '
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
