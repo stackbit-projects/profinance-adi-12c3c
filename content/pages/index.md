@@ -14,7 +14,7 @@ sections:
     background_color: secondary
     background_image: images/watercolor.png
     background_image_repeat: repeat
-    background_image_size: contain
+    background_image_size: auto
     background_image_opacity: 4
     title: 'Buna, sunt Adrian si te ajut sa obtii un credit rapid.'
     subtitle: >-
