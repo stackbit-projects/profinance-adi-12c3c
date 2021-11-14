@@ -1,5 +1,5 @@
 ---
-title: Adrian
+title: Despre
 seo:
   title: ''
   description: ''
