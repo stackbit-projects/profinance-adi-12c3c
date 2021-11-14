@@ -22,7 +22,6 @@ sections:
       banci.
     image: /images/Untitled1.jpg
   - type: grid_section
-    subtitle: Who I work with
     align: center
     grid_items:
       - image: images/logo-1.svg
