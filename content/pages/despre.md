@@ -1,5 +1,4 @@
 ---
-title: Despre
 seo:
   title: ''
   description: ''
