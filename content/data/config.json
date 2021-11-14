@@ -119,7 +119,7 @@
         "primary_nav_links": [
             {
                 "label": "Despre",
-                "url": "/About",
+                "url": "/despre",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-right",
