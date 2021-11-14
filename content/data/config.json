@@ -130,7 +130,7 @@
             },
             {
                 "label": "Contactati-ma",
-                "url": "/C",
+                "url": "/Contact me",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
