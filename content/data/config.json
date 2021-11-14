@@ -119,7 +119,7 @@
         "has_primary_nav": false,
         "primary_nav_links": [
             {
-                "label": "lorem-ipsum",
+                "label": "Despre",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
