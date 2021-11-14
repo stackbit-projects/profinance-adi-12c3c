@@ -117,7 +117,18 @@
     "header": {
         "logo_alt": "lorem-ipsum",
         "has_primary_nav": false,
-        "primary_nav_links": [],
+        "primary_nav_links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
         "has_secondary_nav": true,
         "secondary_nav_links": [],
         "title": "Adrian"
