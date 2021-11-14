@@ -22,7 +22,6 @@ sections:
       banci.
     image: /images/Untitled1.jpg
   - type: grid_section
-    title: Trusted by Companies Big and Small
     subtitle: Who I work with
     align: center
     grid_items:
