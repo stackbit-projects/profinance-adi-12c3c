@@ -21,6 +21,7 @@ sections:
     subtitle: >-
       Ma voi ocupa de toata documentatia necesara fara a te mai deplasa la
       banci.
+    image: /images/Untitled1.jpg
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
