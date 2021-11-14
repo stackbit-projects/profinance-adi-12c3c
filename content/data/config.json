@@ -115,7 +115,7 @@
     "domain": "https://profinance-adi.netlify.app",
     "header": {
         "logo_alt": "lorem-ipsum",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Despre",
