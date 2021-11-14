@@ -6,7 +6,7 @@ sections:
       - label: Contactati-ma
         url: /contact
         style: primary
-    image: images/hero.png
+    image: /images/Untitled.jpg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
