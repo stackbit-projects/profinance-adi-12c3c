@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     actions:
-      - label: Contactati
+      - label: Contactati-ma
         url: /contact
         style: primary
     image: images/hero.png
