@@ -120,7 +120,7 @@
             {
                 "label": "Despre",
                 "url": "/About",
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": true,
                 "icon": "arrow-left",
                 "icon_position": "right",
