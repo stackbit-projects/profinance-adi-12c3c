@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Acasa
 sections:
   - type: hero_section
     actions:
