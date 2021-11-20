@@ -40,6 +40,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: false
+        title: BCR
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
