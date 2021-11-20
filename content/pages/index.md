@@ -30,8 +30,7 @@ sections:
         image_width: twenty-five
         title_align: center
         content: >
-          #
-          [www.raiffeisen.ro![](/images/Raiffeisen%20Bank%20Logo%20\(SVG\)%20-%20Vector69Com.svg)](www.raiffeisen.ro)
+          ![](/images/Raiffeisen%20Bank%20Logo%20\(SVG\)%20-%20Vector69Com-e0ebde43.svg)![](www.raiffeisen.ro)
       - image: /images/209153.svg
         image_alt: Logo 2
         image_align: center
