@@ -39,7 +39,7 @@ sections:
             icon: arrow-left
             icon_position: right
             new_window: true
-            no_follow: false
+            no_follow: true
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
