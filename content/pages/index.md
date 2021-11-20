@@ -49,7 +49,7 @@ sections:
     title: Banci partenere
     subtitle: Cu cine lucrez eu
     actions:
-      - label: lorem-ipsum
+      - label: Raiffeisen
         url: '#'
         style: link
         has_icon: false
