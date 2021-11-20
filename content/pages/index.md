@@ -35,7 +35,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         actions:
-          - label: BCR
+          - label: '-'
             url: www.bcr.ro
             style: link
             has_icon: false
