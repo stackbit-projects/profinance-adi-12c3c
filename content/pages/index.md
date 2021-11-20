@@ -29,7 +29,7 @@ sections:
         image_align: center
         image_width: twenty-five
         title_align: center
-        image_position: bottom
+        image_position: top
         image_has_padding: true
       - image: /images/209153.svg
         image_alt: Logo 2
