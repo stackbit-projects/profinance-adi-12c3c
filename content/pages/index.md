@@ -43,6 +43,29 @@ sections:
       - image: images/logo-4.svg
         image_alt: Logo 4
         image_align: center
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        title_align: left
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        content_align: left
+        actions: []
+        actions_align: left
+        actions_width: auto
+        image_alt: lorem-ipsum
+        image_position: top
+        image_width: fifty
+        image_align: left
+        image_has_padding: false
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
