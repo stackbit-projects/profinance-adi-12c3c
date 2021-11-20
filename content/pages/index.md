@@ -30,7 +30,7 @@ sections:
         image_width: twenty-five
         title_align: center
         image_position: top
-        image_has_padding: true
+        image_has_padding: false
       - image: /images/209153.svg
         image_alt: Logo 2
         image_align: center
