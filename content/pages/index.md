@@ -28,7 +28,7 @@ sections:
         image_alt: Logo 1
         image_align: center
         image_width: twenty-five
-      - image: /images/208840.svg
+      - image: /images/209153.svg
         image_alt: Logo 2
         image_align: center
         actions:
