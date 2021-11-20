@@ -57,14 +57,6 @@ sections:
         icon_position: right
         new_window: true
         no_follow: false
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
   - type: features_section
     title: My services
     subtitle: What I do
