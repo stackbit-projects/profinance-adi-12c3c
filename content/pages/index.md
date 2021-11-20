@@ -33,7 +33,7 @@ sections:
         image_align: center
         actions:
           - label: BCR
-            url: '#'
+            url: www
             style: link
             has_icon: false
             icon: arrow-left
