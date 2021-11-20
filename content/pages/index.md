@@ -34,15 +34,7 @@ sections:
       - image: /images/209153.svg
         image_alt: Logo 2
         image_align: center
-        actions:
-          - label: '-'
-            url: www.bcr.ro
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: true
-            no_follow: true
+        actions: []
         image_has_padding: false
         actions_width: full-width
       - image: images/logo-3.svg
