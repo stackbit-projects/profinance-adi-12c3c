@@ -24,7 +24,7 @@ sections:
   - type: grid_section
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/Raiffeisen Bank Logo (SVG) - Vector69Com.svg
         image_alt: Logo 1
         image_align: center
         image_width: twenty-five
