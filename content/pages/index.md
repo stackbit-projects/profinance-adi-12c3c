@@ -50,7 +50,7 @@ sections:
     subtitle: Cu cine lucrez eu
     actions:
       - label: RaiffeisenBank
-        url: '#'
+        url: 'https://twitter.com/'
         style: link
         has_icon: false
         icon: arrow-left
