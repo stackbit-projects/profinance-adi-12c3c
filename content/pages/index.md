@@ -44,6 +44,7 @@ sections:
             new_window: true
             no_follow: true
         image_has_padding: false
+        actions_width: full-width
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
